@@ -34,3 +34,17 @@ Run server:
 ## To do
 
  - Work on CI / CD
+
+## Useful resources
+
+ - "Scaling out JavaScript Monorepos with Yarn Workspaces" by Tomas Fernandez  
+*Apr 2021*  
+👉 https://semaphoreci.com/blog/javascript-monorepos-yarn-workspaces
+
+ - "Typescript: Working with Paths, Packages and Yarn Workspaces" by Ross Bulat  
+*June 2019*  
+👉 https://rossbulat.medium.com/typescript-working-with-paths-packages-and-yarn-workspaces-6fbc7087b325
+
+ - A Github project template by alitnk  
+*Oct 2021*  
+👉 https://github.com/alitnk/nest-prisma-monorepo
