@@ -29,4 +29,8 @@ Run server:
 ## To improve
 
  - [ ] Find a better way to handle `_moduleAliases` config
-(Not nice to keep it in the root `package.json`) 
+(Not nice to keep it in the root `package.json`)
+
+## To do
+
+ - Work on CI / CD
