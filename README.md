@@ -1,5 +1,7 @@
 # try-yarn-workspaces
 
+*This is a rewrite of https://github.com/cedric25/try-ts-fastify-prisma*
+
 My goal here was to give Prisma Client its own separate package, in order for it to be used
 in more than just one backend.
 
