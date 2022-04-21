@@ -20,8 +20,11 @@ Be sure you're running the latest Yarn version:
 Build 'prisma' package and generate Prisma client (the actual Prisma client + its types)  
 `$ yarn workspace @fruits/prisma run build`
 
-Run server:  
-`$ yarn workspace @fruits/server run dev`
+Start TypeScript watch:
+`$ yarn workspace @fruits/server watch`
+
+Open a new terminal and run server:  
+`$ yarn workspace @fruits/server dev`
 
 ℹ️ Note in `.yarnrc.yml` that we are not using [Yarn PnP mode](https://yarnpkg.com/features/pnp): `nodeLinker: node-modules`
 (Which is *not yet* compatible with Prisma?)
